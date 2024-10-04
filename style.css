@@ -1,0 +1,30 @@
+body{
+    background-color: rgba(196, 187, 187, 0.952);
+    text-align: center;
+}
+h1{
+    text-decoration: underline;
+    color: rgba(83, 81, 81, 0.877);
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+button{
+    font-size: 2em;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    border: 2px solid;
+    border-radius: 9px;
+    padding: 5px 10px;
+    color: rgba(19, 17, 17, 0.945);
+    background-color: rgba(180, 180, 180, 0.103);
+    transition: 0.4s;
+}
+button:hover{
+    background-color: rgba(180, 180, 180, 0.795);
+    cursor: pointer;
+}
+button:active{
+    background-color: rgba(150, 147, 147, 0.774);
+}
+p{
+    font-size: 2em;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
